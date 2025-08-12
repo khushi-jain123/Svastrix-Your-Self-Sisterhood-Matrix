@@ -66,10 +66,10 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 Team EmpowHer
 
 ### **🤝 Contributors**
-👩‍💻 Svastrix Built with 💖 by Team EmpowHer!
-Khushi Jain
-Anushka Jain
-Antra Mishra
-Parinita Vishwakarma
+- 👩‍💻 Svastrix Built with 💖 by Team EmpowHer!
+- Khushi Jain
+- Anushka Jain
+- Antra Mishra
+- Parinita Vishwakarma
 
 
